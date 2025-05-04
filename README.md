@@ -3,7 +3,7 @@
 <details>
 <summary>🇺🇸 English Version</summary>
 
-## ✨ Features
+## 📌 Features
 
 - ✅ **Insert number**: Add a number to a specific cell on the board.
 - ❌ **Remove number**: Delete a previously inserted number.
@@ -37,7 +37,7 @@ Each level generates a board with a number of clues corresponding to the difficu
 <details>
 <summary>🇧🇷 Versão em Português</summary>
 
-## ✨ Funcionalidades
+## 📌 Funcionalidades
 
 - ✅ **Inserir número**: Adicione um número em uma célula específica do tabuleiro.
 - ❌ **Remover número**: Apague um número previamente inserido.
